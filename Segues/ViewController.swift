@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 iDev. All rights reserved.
 //
 
+// Segues help in going from one screen to another in an app
+// We have multiple view controls. Segue is a link from one View control to another.
 import UIKit
 
 class ViewController: UIViewController {
